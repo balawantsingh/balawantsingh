@@ -65,68 +65,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=balawantsingh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balawantsingh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balawantsingh&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" />
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balawantsingh&theme=algolia&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 🌱 Currently Exploring
-
-```mermaid
-mindmap
-  root((AI Dev))
-    LLM Engineering
-      Prompt Engineering
-      Fine-tuning
-      Evaluation & Evals
-    Agentic Systems
-      Tool Use & Function Calling
-      Multi-Agent Frameworks
-      Memory & Planning
-    Full Stack AI
-      AI-native UX Patterns
-      Streaming Responses
-      Vector Search
-    Cloud & Scale
-      LLMOps
-      Serverless AI
-      Cost Optimization
-```
-
----
-
-## 📬 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balawantsingh)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/balawantsingh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://balawantsingh.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@balawantsingh.dev)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer&fontSize=10" />
