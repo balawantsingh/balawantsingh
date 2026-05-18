@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Balawant Singh
 **Senior Full-Stack Engineer | Solution Architect | Product Builder | AI/Cloud Experience**
 
-I am a Full-Stack Developer and Data Scientist (14+ years of experience) with M.Tech (Computer Science), solid research skills, and extensive software engineering experience.
+I’m a Full-Stack Developer and Data Scientist with 14+ years of experience, an M.Tech in Computer Science, and a strong background in research, building scalable SaaS, AI-driven platforms, and enterprise applications.
 
 Still learning, still growing ——
 <br>
