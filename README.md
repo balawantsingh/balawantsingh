@@ -95,7 +95,7 @@ Got a problem to solve?
 <br>
 Chances are, I've got the right tool in this belt — let's build something great together. <br><br><br>
 
-## Featured Projects
+## Featured Projects —
 
 ### Dust.tt
 Enterprise-grade AI assistant platform that connects company knowledge across tools like Notion, Slack and Google Drive — powered by multi-LLM routing across GPT-4, Claude and Mistral. Built for teams who need secure, context-aware AI without sending sensitive data to public models.
