@@ -1,29 +1,23 @@
-## Hello there, 👋 I am Balawant Singh.
-
-class BalawantSingh:
-    role        = "AI-Powered Full Stack Developer"
-    location    = "India 🇮🇳"
-    focus       = ["LLM Apps", "AI Agents", "Full Stack Systems"]
-    currently   = "Building production-grade AI-driven web applications"
-    learning    = ["Agentic AI", "RAG Pipelines", "Multimodal LLMs"]
-    ask_me      = ["AI Integration", "FastAPI", "React", "Cloud Architecture"]
-    fun_fact    = "I ship features powered by AI before my coffee gets cold ☕"
-
-
-
-
-
-
-
-
 <div align="center">
-
+   
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Balawant+Singh;AI-Powered+Full+Stack+Developer;Building+Intelligent+Web+Experiences;LLMs+%C3%97+Full+Stack+%3D+%E2%9C%A8+)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=balawantsingh&label=Profile%20Views&color=0ea5e9&style=flat" alt="profile views" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Balawant+Singh;AI-Powered+Full+Stack+Developer;Building+Intelligent+Solutions;)](https://git.io/typing-svg)
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
