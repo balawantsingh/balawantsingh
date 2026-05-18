@@ -12,7 +12,7 @@ Still learning, still growing ——
 - **From idea to production** <br>
 — I own the full journey: design, develop, deploy, and maintain. <br><br><br>
 
-## My Clients —
+## Clients I’ve collaborated with—
 
 <img width="300" height="212" alt="Stride Token" src="https://github.com/user-attachments/assets/ba6f5cac-982e-4d52-b991-3909bf53e913" /> 
 
