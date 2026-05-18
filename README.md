@@ -3,9 +3,12 @@ I am a **Full-Stack Developer** and **Data Scientist** (14+ years of experience)
 
 You can not ignore me —
 <br>
-- **I use AI as a superpower** — integrating GPT, Claude, Gemini & open-source LLMs to ship smarter, faster software.
-- **MERN is my backbone** — React, Node, MongoDB — I've built and scaled apps used by thousands of real users.
-- **From idea to production** — I own the full journey: design, develop, deploy, and maintain.
+- **I use AI as a superpower** <br>
+— integrating GPT, Claude, Gemini & open-source LLMs to ship smarter, faster software.
+- **MERN is my backbone** <br>
+— React, Node, MongoDB — I've built and scaled apps used by thousands of real users.
+- **From idea to production** <br>
+— I own the full journey: design, develop, deploy, and maintain.
 
 ## My Go-To Technologies —
 
