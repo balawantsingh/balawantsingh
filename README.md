@@ -8,7 +8,7 @@ You can not ignore me —
 - **MERN is my backbone** <br>
 — React, Node, MongoDB — I've built and scaled apps used by thousands of real users.
 - **From idea to production** <br>
-— I own the full journey: design, develop, deploy, and maintain.
+— I own the full journey: design, develop, deploy, and maintain. <br><br><br>
 
 ## My Go-To Technologies —
 
