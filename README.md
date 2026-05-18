@@ -97,7 +97,7 @@ Chances are, I've got the right tool in this belt — let's build something grea
 
 ## Featured Projects —
 
-### Dust.tt
+### [Dust.tt](https://dust.tt/)
 Enterprise-grade AI assistant platform that connects company knowledge across tools like Notion, Slack and Google Drive — powered by multi-LLM routing across GPT-4, Claude and Mistral. Built for teams who need secure, context-aware AI without sending sensitive data to public models.
 
 - Architected multi-LLM routing engine supporting GPT-4, Claude & Mistral
@@ -108,7 +108,7 @@ Enterprise-grade AI assistant platform that connects company knowledge across to
 
 [![](https://skillicons.dev/icons?i=react,nodejs,py,aws)](https://skillicons.dev) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-### Mem.ai
+### [Mem.ai](https://get.mem.ai/)
 AI-native knowledge base that autonomously organises, tags and surfaces information using semantic embeddings and vector search. Eliminates manual note management by building a self-updating second brain that understands context, not just keywords.
 
 - Engineered semantic search across millions of user notes using embeddings
@@ -119,7 +119,7 @@ AI-native knowledge base that autonomously organises, tags and surfaces informat
 
 [![](https://skillicons.dev/icons?i=react,nodejs,mongodb,redis,gcp)](https://skillicons.dev) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 
-### Sourcegraph Cody
+### [Sourcegraph Cody](https://sourcegraph.com/)
 Codebase-aware AI coding assistant that goes beyond autocomplete — understanding your entire repository structure, dependencies and patterns to generate accurate, context-rich suggestions. Integrates natively into VS Code and JetBrains with real-time RAG over multi-repo codebases.
 
 - Led development of codebase-aware RAG pipeline for accurate code suggestions
@@ -130,7 +130,7 @@ Codebase-aware AI coding assistant that goes beyond autocomplete — understandi
 
 [![](https://skillicons.dev/icons?i=react,nodejs,ts,py,postgres,docker,aws)](https://skillicons.dev) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-### Bland.ai
+### [Bland.ai](https://www.bland.ai/)
 Production-scale voice AI platform that automates enterprise phone operations using real-time LLM-driven conversation flows. Handles thousands of concurrent calls with dynamic branching logic, CRM integrations and sub-second response latency — making human-like automation at scale a reality.
 
 - Architected real-time voice AI pipeline handling thousands of concurrent calls
