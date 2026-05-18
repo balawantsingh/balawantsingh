@@ -1,5 +1,21 @@
 ## Hello there, 👋 I am Balawant Singh.
 
+class BalawantSingh:
+    role        = "AI-Powered Full Stack Developer"
+    location    = "India 🇮🇳"
+    focus       = ["LLM Apps", "AI Agents", "Full Stack Systems"]
+    currently   = "Building production-grade AI-driven web applications"
+    learning    = ["Agentic AI", "RAG Pipelines", "Multimodal LLMs"]
+    ask_me      = ["AI Integration", "FastAPI", "React", "Cloud Architecture"]
+    fun_fact    = "I ship features powered by AI before my coffee gets cold ☕"
+
+
+
+
+
+
+
+
 <div align="center">
 
 <!-- Typing SVG Header -->
