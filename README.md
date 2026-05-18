@@ -1,5 +1,8 @@
 
-## Tech Stack
+##  My Go-To Technologies —
+
+Not just familiar — **deeply experienced**. These are the tools I've shipped **production code** with, **scaled systems** on, and **solved real problems** using. <br> <br>
+From robust **MERN applications** to **intelligent AI agents**, I bring end-to-end expertise.
 
 <table>
   <tr>
@@ -75,6 +78,9 @@
     </td>
   </tr>
 </table>
+Got a problem to solve?
+<br>
+Chances are, I've got the right tool in this belt — let's build something great together.
 
 
 
