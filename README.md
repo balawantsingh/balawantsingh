@@ -1,5 +1,8 @@
+# Hello there 👋, I'm Balawant Singh
+I am a full-stack developer and data scientist with M.Tech, solid research skills, and extensive software engineering experience. I contributed as a team lead, project manager, mentor, solution architect, and hands-on developer who builds efficient, scalable, and fault-tolerant solutions for enterprise companies and startups.
 
-##  My Go-To Technologies —
+
+## My Go-To Technologies —
 
 Not just familiar — **deeply experienced**. These are the tools I've shipped **production code** with, **scaled systems** on, and **solved real problems** using. <br> <br>
 From robust **MERN applications** to **intelligent AI agents**, I bring end-to-end expertise.
