@@ -12,6 +12,16 @@ Still learning, still growing ——
 - **From idea to production** <br>
 — I own the full journey: design, develop, deploy, and maintain. <br><br><br>
 
+## My Clients —
+
+<img width="300" height="212" alt="Stride Token" src="https://github.com/user-attachments/assets/ba6f5cac-982e-4d52-b991-3909bf53e913" /> 
+
+
+<br> <br>
+
+
+You are my next long-term client. <br><br><br>
+
 ## My Go-To Technologies —
 
 Not just familiar — **deeply experienced**. These are the tools I've shipped **production code** with, **scaled systems** on, and **solved real problems** using. <br> <br>
