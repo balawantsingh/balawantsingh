@@ -1,6 +1,11 @@
 # Hello there 👋, I'm Balawant Singh
 I am a **Full-Stack Developer** and **Data Scientist** (14+ years of experience) with M.Tech (Computer Science), solid research skills, and extensive software engineering experience. I contributed as a team lead, project manager, mentor, solution architect, and hands-on developer who builds efficient, scalable, and fault-tolerant solutions for enterprise companies and startups.
 
+You can not ignore me —
+<br>
+- **I use AI as a superpower** — integrating GPT, Claude, Gemini & open-source LLMs to ship smarter, faster software.
+- **MERN is my backbone** — React, Node, MongoDB — I've built and scaled apps used by thousands of real users.
+- **From idea to production** — I own the full journey: design, develop, deploy, and maintain.
 
 ## My Go-To Technologies —
 
