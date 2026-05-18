@@ -64,11 +64,5 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=80&section=footer&fontSize=10" />
-  
-  <sub>⚡ Crafting the future, one intelligent app at a time.</sub>
 </div>
 
