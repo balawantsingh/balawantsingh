@@ -14,21 +14,10 @@ Still learning, still growing ——
 
 <img width="800" height="200" alt="Have a BIG IDEA in mind to execute" src="https://github.com/user-attachments/assets/6a7545e7-65d1-4ac1-bb52-3d53ead67d45" />
 
-
-
-
-
-
-
-## Clients I’ve collaborated with—
+## Key Clients I’ve collaborated with—
 
 <img width="800" height="300" alt="Client Worked For" src="https://github.com/user-attachments/assets/7ce9bda0-5c09-48f2-bd17-4b3eab557089" />
 
-
-<br> <br>
-
-
-You are my next long-term client. <br><br><br>
 
 ## My Go-To Technologies —
 
@@ -122,20 +111,12 @@ Enterprise-grade AI assistant platform that connects company knowledge across to
 - Built RAG pipelines connecting company Notion, Slack & Drive data sources
 - Designed role-based access system for enterprise-grade data security
 
-**Tech Stack:**
-
-[![](https://skillicons.dev/icons?i=react,nodejs,py,aws)](https://skillicons.dev) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
 ### [Mem.ai](https://get.mem.ai/)
 AI-native knowledge base that autonomously organises, tags and surfaces information using semantic embeddings and vector search. Eliminates manual note management by building a self-updating second brain that understands context, not just keywords.
 
 - Engineered semantic search across millions of user notes using embeddings
 - Built real-time AI tagging and auto-linking system between related memories
 - Developed smart summarisation pipeline reducing information overload by 70%
-
-**Tech Stack:**
-
-[![](https://skillicons.dev/icons?i=react,nodejs,mongodb,redis,gcp)](https://skillicons.dev) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 
 ### [Sourcegraph Cody](https://sourcegraph.com/)
 Codebase-aware AI coding assistant that goes beyond autocomplete — understanding your entire repository structure, dependencies and patterns to generate accurate, context-rich suggestions. Integrates natively into VS Code and JetBrains with real-time RAG over multi-repo codebases.
@@ -144,17 +125,9 @@ Codebase-aware AI coding assistant that goes beyond autocomplete — understandi
 - Built multi-repo context engine indexing 100K+ file codebases in real time
 - Engineered VS Code & JetBrains plugin integration with sub-200ms response time
 
-**Tech Stack:**
-
-[![](https://skillicons.dev/icons?i=react,nodejs,ts,py,postgres,docker,aws)](https://skillicons.dev) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
 ### [Bland.ai](https://www.bland.ai/)
 Production-scale voice AI platform that automates enterprise phone operations using real-time LLM-driven conversation flows. Handles thousands of concurrent calls with dynamic branching logic, CRM integrations and sub-second response latency — making human-like automation at scale a reality.
 
 - Architected real-time voice AI pipeline handling thousands of concurrent calls
 - Built dynamic conversation flow engine with LLM-driven decision branching
 - Designed webhook integration system connecting CRMs like Salesforce & HubSpot
-
-**Tech Stack:**
-
-[![](https://skillicons.dev/icons?i=nodejs,react,py,fastapi,mongodb,redis,aws)](https://skillicons.dev) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
