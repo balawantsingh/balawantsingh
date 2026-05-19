@@ -12,7 +12,8 @@ Still learning, still growing ——
 - **From idea to production** <br>
 — I own the full journey: design, develop, deploy, and maintain. <br><br>
 
-<img width="800" height="200" alt="Have a BIG IDEA in minds" src="https://github.com/user-attachments/assets/f3d8cee7-406d-4a2d-99ac-64dbbaed3d48" />
+<img width="800" height="200" alt="Have a BIG IDEA in mind to execute" src="https://github.com/user-attachments/assets/c937e3a0-8504-4565-bdf5-366edf734c7a" />
+
 
 
 
