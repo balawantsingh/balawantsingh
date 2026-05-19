@@ -22,7 +22,7 @@ Still learning, still growing ——
 
 ## Clients I’ve collaborated with—
 
-<img width="300" height="212" alt="Stride Token" src="https://github.com/user-attachments/assets/ba6f5cac-982e-4d52-b991-3909bf53e913" /> 
+<img width="800" height="300" alt="Client Worked For" src="https://github.com/user-attachments/assets/7ce9bda0-5c09-48f2-bd17-4b3eab557089" />
 
 
 <br> <br>
