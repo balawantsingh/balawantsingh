@@ -10,7 +10,11 @@ Still learning, still growing ——
 - **MERN is my backbone** <br>
 — React, Node, MongoDB — I've built and scaled apps used by thousands of real users.
 - **From idea to production** <br>
-— I own the full journey: design, develop, deploy, and maintain. <br><br><br>
+— I own the full journey: design, develop, deploy, and maintain. <br><br>
+
+<img width="800" height="200" alt="Have a BIG IDEA in mind to execute" src="https://github.com/user-attachments/assets/b20be3dc-386e-4e29-91e6-267e5dfc504e" />
+
+
 
 ## Clients I’ve collaborated with—
 
