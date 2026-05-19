@@ -14,7 +14,7 @@ Still learning, still growing ——
 
 <img width="800" height="200" alt="Have a BIG IDEA in mind to execute" src="https://github.com/user-attachments/assets/6a7545e7-65d1-4ac1-bb52-3d53ead67d45" />
 
-## Key Clients I’ve collaborated with—
+## Key Clients I’ve collaborated with —
 
 <img width="800" height="300" alt="Clients I have worked" src="https://github.com/user-attachments/assets/4e95a785-59c3-440e-bb82-ee9cf191d3cb" />
 
