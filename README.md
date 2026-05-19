@@ -16,7 +16,7 @@ Still learning, still growing ——
 
 ## Key Clients I’ve collaborated with—
 
-<img width="800" height="300" alt="Client Worked For" src="https://github.com/user-attachments/assets/7ce9bda0-5c09-48f2-bd17-4b3eab557089" />
+<img width="800" height="300" alt="Clients I have worked" src="https://github.com/user-attachments/assets/4e95a785-59c3-440e-bb82-ee9cf191d3cb" />
 
 
 ## My Go-To Technologies —
